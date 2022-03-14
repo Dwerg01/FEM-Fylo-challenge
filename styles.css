@@ -53,6 +53,8 @@ div.container {
 }
 
 div.container:first-child {
+
+    background-color: var(--bg-dark-blue-test);
 }
 
 div.container:last-child {
